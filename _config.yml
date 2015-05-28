@@ -1,48 +1,48 @@
-slogan: "Yet another bootstrap theme."
+slogan: What will you make?
 
 menu:
-  - title: Archives
+  - title: 归档
     url: archives
     intro: "All the articles."
     icon: "fa fa-archive"
-  - title: Categories
+  - title: 分类
     url: categories
     intro: "All the categories."
     icon: "fa fa-folder"
-  - title: Tags
+  - title: 标签
     url: tags
     intro: "All the tags."
     icon: "fa fa-tags"
-  - title: About
+  - title: 关于
     url: about
     intro: "About me."
     icon: "fa fa-user"
 
 links:
-  - title: Freemind
-    url: https://github.com/wzpan/freemind/
-    intro: "Freemind's Github repository."
+  - title: maker.iee.io
+    url: http://maker.iee.io/
+    intro: "本站地址"
+    icon: "fa fa-user"
+  - title: imaker.iee.io (校园网内)
+    url: http://imaker.iee.io/
+    intro: "本站地址"
+    icon: "fa fa-user"
+  - title: "编辑本网站"
+    url: http://github.com/omaker/makersite
+    intro: "On Github."
     icon: "fa fa-github"
-  - title: "My Github"
-    url: http://www.github.com/wzpan
-    intro: "My Github account."
-    icon: "fa fa-github"
-  - title: "My LinkedIn"
-    url: http://www.linkedin.com/in/hahack
-    intro: "My Linkin account."
-    icon: "fa fa-linkedin"
 
 widgets:
-- search
 - category
 - tagcloud
 - recent_posts  
 - links
+  # - search
 
 rss: 
 fancybox: true
 favicon: favicon.png
-duoshuo_shortname:
+duoshuo_shortname: imaker
 
 # Analytics
 google_analytics:
