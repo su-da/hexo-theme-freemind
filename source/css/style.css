@@ -63,7 +63,7 @@ body {
 
 .page, .post{
   line-height: 1.5em;
-  font-family: 'Open Sans',"Helvetica Neue", "Helvetica","Microsoft YaHei", "WenQuanYi Micro Hei",Arial, sans-serif;
+  font-family: 'Open Sans', "Helvetica Neue", "Helvetica", Arial, "Source Sans Pro" , "Noto Sans" , source-sans-pro, "Source Han Sans SC" , "Noto Sans CJK SC" , "Source Han Sans CN", "Source Han Sans", "Microsoft YaHei", STHeiti, STXihei, "Heiti SC" , Hei, "Hiragino Sans GB" , SimHei, sans-serif;
 }
 
 .page .more {

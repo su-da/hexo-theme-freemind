@@ -20,6 +20,14 @@ menu:
     url: about
     intro: "About me."
     icon: "fa fa-user"
+  - title: Linux 课程
+    url: linux
+    intro: "Linux 课程相关内容"
+    icon: "fa fa-linux"
+  - title: 实验课程
+    url: labs
+    intro: "实验课程相关内容"
+    icon: "fa fa-flag"
 
 links:
   - title: maker.iee.io
