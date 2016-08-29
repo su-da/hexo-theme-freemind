@@ -1,5 +1,8 @@
 slogan: What will you make?
 
+theme: bootstrap
+inverse: true
+
 menu:
   - title: 归档
     url: archives
@@ -54,3 +57,8 @@ baidu_tongji:
 
 # search
 # swiftype_key: ZP2ZSuHgipSZfRyU8uTR
+
+# share widgets
+bdshare: true
+jiathis: false
+
