@@ -30,16 +30,16 @@ menu:
     icon: "fa fa-flag"
 
 links:
-  - title: maker.iee.io
-    url: http://maker.iee.io/
+  - title: EE.SUDA courses
+    url: http://o.iee.io/
     intro: "本站地址"
     icon: "fa fa-user"
-  - title: imaker.iee.io (校园网内)
-    url: http://imaker.iee.io/
+  - title: EE.SUDA courses (校园网内)
+    url: http://i.iee.io/
     intro: "本站地址"
     icon: "fa fa-user"
   - title: "编辑本网站"
-    url: http://github.com/omaker/makersite
+    url: http://github.com/su-da/website
     intro: "On Github."
     icon: "fa fa-github"
 
@@ -67,6 +67,6 @@ baidu_tongji:
 # swiftype_key: ZP2ZSuHgipSZfRyU8uTR
 
 # share widgets
-bdshare: true
+bdshare: false
 jiathis: false
 
